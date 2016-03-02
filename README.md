@@ -1,3 +1,3 @@
 # muv-limiter
 
-See here for spec:  link.optimizely.com/muv-limiter
+See here for spec:  <a>link.optimizely.com/muv-limiter</a>
