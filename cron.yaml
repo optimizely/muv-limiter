@@ -1,0 +1,4 @@
+cron:
+- description: Check MUVs and pause test if over limit
+  url: /cron
+  schedule: every 1 minutes

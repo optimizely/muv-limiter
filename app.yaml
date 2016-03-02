@@ -1,0 +1,13 @@
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+application: test-control-1187
+
+handlers:
+- url: /.*
+  script: test_control.app
+
+libraries:
+- name: webapp2
+  version: latest
